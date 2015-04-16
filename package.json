@@ -1,0 +1,27 @@
+{
+  "name": "resig",
+  "version": "1.0.0",
+  "description": "JavaScript Micro-Templating from John Resig http://ejohn.org/blog/javascript-micro-templating/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidjamesstone/resig"
+  },
+  "keywords": [
+    "Template",
+    "Engine",
+    "ERB-style javascript templates",
+    "EJS-style javascript templates",
+    "ASP-style javascript templates",
+    "Microtemplate"
+  ],
+  "author": "davidjamesstone / johnresig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidjamesstone/resig/issues"
+  },
+  "homepage": "https://github.com/davidjamesstone/resig"
+}
