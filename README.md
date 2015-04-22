@@ -4,7 +4,6 @@ JavaScript Micro-Templating from John Resig
 
 
 Super-simple templating function that is fast, caches quickly, and is easy to use in the browser or nodejs.
-=====
 
 ```html
 <script type="text/html" id="tmpl">
